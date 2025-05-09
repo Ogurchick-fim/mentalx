@@ -26,7 +26,6 @@ This is the **Articles Screen** for the MentalX mobile app — a mental health p
 
 ## 🧪 Screenshots
 
-> _Add screenshots of the category filters and article list here_
 <img width="1470" alt="Screenshot 2025-05-09 at 6 10 48 PM" src="https://github.com/user-attachments/assets/d613f961-309f-49b9-b754-21e37b8e5bec" />
 <img width="1469" alt="Screenshot 2025-05-09 at 6 10 41 PM" src="https://github.com/user-attachments/assets/e3567c0d-636a-48f9-846c-94051b31422f" />
 <img width="1470" alt="Screenshot 2025-05-09 at 5 53 26 PM" src="https://github.com/user-attachments/assets/c77f2cd6-2d3a-4d67-ba4b-ede1acddae0d" />
